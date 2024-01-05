@@ -1,0 +1,44 @@
+[
+    {
+        "link": "https://spb.hh.ru/vacancy/88878122?from=vacancy_search_list&query=python&hhtmFrom=vacancy_search_list",
+        "salary": null,
+        "company": "ООО Медиапоинт",
+        "city": "Москва"
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/84644126?from=vacancy_search_list&query=python&hhtmFrom=vacancy_search_list",
+        "salary": null,
+        "company": "Lesta Games",
+        "city": "Москва, Савёловская и еще 2"
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/90886037?from=vacancy_search_list&query=python&hhtmFrom=vacancy_search_list",
+        "salary": null,
+        "company": "ИП Мисакян Азгануш Гарниковна",
+        "city": "Москва"
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/90143523?from=vacancy_search_list&query=python&hhtmFrom=vacancy_search_list",
+        "salary": "110 000 – 180 000 ₽",
+        "company": "Федеральное автономное учреждение Государственный Научно-Исследовательский Институт Авиационных Систем",
+        "city": "Москва, Аэропорт"
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/91199879?from=vacancy_search_list&query=python&hhtmFrom=vacancy_search_list",
+        "salary": null,
+        "company": "ООО Осм Консалтинг",
+        "city": "Москва"
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/88984959?from=vacancy_search_list&query=python&hhtmFrom=vacancy_search_list",
+        "salary": null,
+        "company": "Компания Самолет",
+        "city": "Москва"
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/91187726?from=vacancy_search_list&query=python&hhtmFrom=vacancy_search_list",
+        "salary": "250 000 – 350 000 ₽",
+        "company": "Sapiens solutions",
+        "city": "Москва, Бауманская и еще 1"
+    }
+]
